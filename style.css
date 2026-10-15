@@ -1,14 +1,15 @@
-/* Main site stylesheet used by all pages */
 body{
-  background: linear-gradient(180deg,#2b2b2b,#3b3b3b);
-  color:#eeeeee;
-  text-align:center;
+  background-color: rgb(79, 79, 79);
+  color: #ffffff;
+  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  margin:0;padding:20px;
+  margin: 0;
+  padding: 20px;
 }
-h1{ color:#ffcc00; margin-bottom:10px }
-h3{ color:#00c5ff }
-nav p{ margin:6px 0 }
-a{ color:#66ccff; text-decoration:none; font-weight:600 }
-a:hover{ text-decoration:underline }
-img{ max-width:90%; height:auto; border-radius:8px }
+
+h1{ color: #ffd166; margin-bottom: 10px; }
+h3{ color: #00c5ff; }
+nav p{ margin: 6px 0; }
+a{ color: #66ccff; text-decoration: none; font-weight: 600; }
+a:hover{ text-decoration: underline; }
+img{ max-width: 90%; height: auto; border-radius: 8px; }
